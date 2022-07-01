@@ -5,9 +5,11 @@
 <h3 align="left">Contacte conmigo:</h3>
 <p align="left">
   
-  <a href="https://instagram.com/fernando_murguia0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="fernando_murguia0" height="30" width="40" /></a>
+  <a href="https://instagram.com/fernando_murguia0" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernando_murguia0" height="30" width="40" /></a>
   
-<a href="https://linkedin.com/in/fernando-murguia-estrada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-murguia-estrada" height="30" width="40" / ></a>
+<a href="https://linkedin.com/in/fernando-murguia-estrada" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-murguia-estrada" height="30" width="40" / ></a>
   
   <a href="mailto:fmurguia12@gmail.com" target="blank"> 
   <img src="https://camo.githubusercontent.com/79292d3736cce0c7d743a9edc0bafd75da633cdc8b58797329fc9c3f56f9887b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
